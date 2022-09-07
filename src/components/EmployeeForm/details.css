@@ -1,0 +1,4 @@
+.genderdiv{
+    display: flex;
+    flex-direction: row;
+}
